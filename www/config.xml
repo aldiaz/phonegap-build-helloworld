@@ -6,10 +6,10 @@
         id        = "com.loiane.phonegap"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Aproxima</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Take and upload photos and videos to an website immediatly.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
